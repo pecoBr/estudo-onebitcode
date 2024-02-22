@@ -51,3 +51,15 @@ a {
     letter-spacing: 0.5rem;
     text-transform: uppercase;
 }
+
+.section {
+    overflow: hidden;
+    padding: 0 8rem;
+    text-align: center;
+}
+
+.section__title {
+    font-size: 3rem;
+    font-weight: 300;
+    margin: 4rem auto;
+}
