@@ -54,3 +54,4 @@ for (let indice = 0; indice < sociedade.length; indice++) {
   const elemento = sociedade[indice]
   console.log(elemento + " se encontra na posição " + indice)
 }
+
